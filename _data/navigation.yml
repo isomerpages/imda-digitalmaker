@@ -1,0 +1,58 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: Start
+  url: /start/
+- title: Partners
+  url: /partners/
+- title: Make
+  url: /make/fun-and-games/
+  sub-links:
+  - title: Fun And Games
+    url: /make/fun-and-games/
+  - title: Homes
+    url: /make/homes/
+  - title: Nature
+    url: /make/nature/
+  - title: Sports And Wellness
+    url: /make/sports-and-wellness/
+- title: Teach
+  url: /teach/computer-studies/
+  sub-links:
+  - title: Computer Studies
+    url: /teach/computer-studies/
+  - title: Design And Technology
+    url: /teach/design-and-technology/
+  - title: Humanities
+    url: /teach/humanities/
+  - title: Language
+    url: /teach/language/
+  - title: Math
+    url: /teach/math/
+  - title: Music And Art
+    url: /teach/music-and-art/
+  - title: Physical Education
+    url: /teach/physical-education/
+  - title: Science
+    url: /teach/science/
+- title: Whats On
+  url: /whats-on/contests/
+  sub-links:
+  - title: Contests
+    url: /whats-on/contests/
+  - title: Events
+    url: /whats-on/events/
+  - title: Workshops
+    url: /whats-on/workshops/
+- title: Stories
+  url: /stories/
+  sub-links:
+  - title: All
+    url: /stories/
+  - title: Blog Stories
+    url: /stories/blog-stories/
+  - title: Media
+    url: /stories/media/

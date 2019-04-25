@@ -11,7 +11,9 @@
 - title: Make
   url: /make/fun-and-games/
   sub-links:
-  - title: Fun And Games
+    - title: Hui
+    url: /make/HuiPL/
+    - title: Fun And Games
     url: /make/fun-and-games/
   - title: Homes
     url: /make/homes/

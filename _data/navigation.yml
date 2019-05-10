@@ -27,8 +27,12 @@
   sub-links:
   - title: Overview
     url: /in-community/overview/
+  - title: PlayMaker
+    url: /in-community/playmaker/
   - title: Code & Make @Community
     url: /in-community/codemake/
+  - title: By Community, For Community
+    url: /in-community/by-community-for-community/
 - title: Whats On
   url: /whats-on/contests/
   sub-links:

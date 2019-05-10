@@ -44,10 +44,3 @@
     url: /whats-on/workshops/
 - title: Events
   url: /events/
-  sub-links:
-  - title: All
-    url: /events/
-  - title: test-1
-    url: /events/test-1/
-  - title: test-2
-    url: /events/test-2/

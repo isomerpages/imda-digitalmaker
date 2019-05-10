@@ -11,8 +11,8 @@ favicon: /images/favicon-isomer.ico
 agency-logo: /images/isomer-logo.svg
 
 # Hero Banner
-hero-title: Hero title
-hero-subtitle: Hero subtitle
+hero-title: Code & Make @SG
+hero-subtitle: Developing Computational Thinking and Making as a National Capability
 hero-banner: /images/homepage-images/hero banner.jpg
 
 #Call to Action Button
@@ -37,6 +37,6 @@ info-sections:
  
 
 resources-subtitle: Events
-resources-title: Join us for some creative fun!
+resources-title: Code & Make @SG's calendar has events from workshops to competitions. Come on down and join us in having some creative fun!
 resources-more-button: Learn more
 resources-more-button-url: stories/

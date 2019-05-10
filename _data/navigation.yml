@@ -42,8 +42,8 @@
     url: /whats-on/events/
   - title: Workshops
     url: /whats-on/workshops/
-- title: Stories
-  url: /stories/
+- title: Events
+  url: /events/
   sub-links:
   - title: All
     url: /stories/

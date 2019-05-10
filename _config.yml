@@ -40,7 +40,7 @@ custom_print_css_path: "/assets/css/print.css"
 
 
 collections:
-  make:
+  in-schools:
     output: true
   teach:
     output: true

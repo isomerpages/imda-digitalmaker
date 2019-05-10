@@ -22,30 +22,19 @@ button:
 
 # Info Sections
 info-sections:
-  - section-title: Users
-    section-subtitle: Hassle-free registration
-    section-description: We streamline your user registration process by removing your need for password and user management.
-    section-more-button: API References
+  - section-title: 
+    section-subtitle: In Schools
+    section-description: Our programmes support schools in developing computational thinking and making skills in their students. We engage educators to help them create a new generation workforce with coding and computational thinking skills, making these part of Singapore's national capabilities
+    section-more-button: Learn more
     section-more-button-url: /citizens/
-    section-image-path: /images/digital-transformation/govtech-hive.jpg
-  - section-title: Developers
-    section-subtitle: Develop seamlessly
-    section-description: With the NDI platform, app developers only need one client ID to gain access to multiple government services.
-    section-more-button: Stuff
+    section-image-path: /images/homepage-images/In Schools.jpg
+  - section-title: 
+    section-subtitle: In Community
+    section-description: Programmes run in the community for members of the public to try their hand at coding and making. Our programmes also cater to innovative and creative individuals amongst the public, encouraging collaboration and fostering a community of coders and makers
+    section-more-button: Learn more
     section-more-button-url: /citizens/
-    section-image-path: /images/digital-transformation/govtech-hive.jpg
-  - section-title: Users
-    section-subtitle: Hassle-free registration
-    section-description: We streamline your user registration process by removing your need for password and user management.
-    section-more-button: Stuff
-    section-more-button-url: /citizens/
-    section-image-path: /images/digital-transformation/govtech-hive.jpg
-  - section-title: Developers
-    section-subtitle: Develop seamlessly
-    section-description: With the NDI platform, app developers only need one client ID to gain access to multiple government services.
-    section-more-button: API References
-    section-more-button-url: /citizens/
-    section-image-path: /images/digital-transformation/govtech-hive.jpg
+    section-image-path: /images/homepage-images/In Community.jpg
+ 
 
 resources-title: Resources
 resources-subtitle: Be in the know

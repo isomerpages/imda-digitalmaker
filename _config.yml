@@ -48,4 +48,4 @@ collections:
     output: true
   whats-on:
     output: true
-resources_name: stories
+resources_name: test

@@ -14,25 +14,13 @@
     url: /in-schools/overview/
   - title: ICM Learning Roadmap
     url: /in-schools/icm-learning-roadmap/
-- title: Teach
-  url: /teach/computer-studies/
+- title: In Community
+  url: /in-community/overview/
   sub-links:
-  - title: Computer Studies
-    url: /teach/computer-studies/
-  - title: Design And Technology
-    url: /teach/design-and-technology/
-  - title: Humanities
-    url: /teach/humanities/
-  - title: Language
-    url: /teach/language/
-  - title: Math
-    url: /teach/math/
-  - title: Music And Art
-    url: /teach/music-and-art/
-  - title: Physical Education
-    url: /teach/physical-education/
-  - title: Science
-    url: /teach/science/
+  - title: Overview
+    url: /in-community/overview/
+  - title: Code & Make @Community
+    url: /in-community/codemake/
 - title: Whats On
   url: /whats-on/contests/
   sub-links:

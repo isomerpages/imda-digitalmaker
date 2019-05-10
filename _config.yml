@@ -42,6 +42,8 @@ custom_print_css_path: "/assets/css/print.css"
 collections:
   in-schools:
     output: true
+  in-community:
+    output: true
   teach:
     output: true
   whats-on:

@@ -1,9 +1,0 @@
----
-layout: resources
-title: Events
-permalink: /events/
-breadcrumb: Events
-pagination: 
-  enabled: true
-  sort_reverse: true
----

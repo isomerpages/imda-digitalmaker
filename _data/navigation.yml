@@ -44,3 +44,8 @@
     url: /whats-on/workshops/
 - title: Events
   url: /events/
+  sub-links:
+  - title: type 1
+    url: /events/type-1/
+  - title: type 2
+    url: /events/type-2/

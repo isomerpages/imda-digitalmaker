@@ -40,12 +40,10 @@ custom_print_css_path: "/assets/css/print.css"
 
 
 collections:
-  in-schools:
-    output: true
   make:
     output: true
   teach:
     output: true
   whats-on:
     output: true
-resources_name: test
+resources_name: stories

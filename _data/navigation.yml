@@ -46,8 +46,8 @@
   url: /events/
   sub-links:
   - title: All
-    url: /stories/
-  - title: Blog Stories
-    url: /stories/blog-stories/
-  - title: Media
-    url: /stories/media/
+    url: /events/
+  - title: test-1
+    url: /events/test-1/
+  - title: test-2
+    url: /events/test-2/

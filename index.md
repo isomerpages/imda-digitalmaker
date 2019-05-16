@@ -1,5 +1,5 @@
 ---
-layout: landingpage
+layout: homepage
 title: DMP
 permalink: /
 ---

@@ -1,5 +1,5 @@
 ---
-layout: dmp-landing-page
+layout: homepage
 title: Isomer Pages Demo
 permalink: /
 ---
